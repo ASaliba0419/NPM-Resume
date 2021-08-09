@@ -1,0 +1,21 @@
+{
+  "name": "Andrew Saliba",
+  "website": "",
+  "linkedin": "https://www.linkedin.com/in/andrew-saliba-019363213/",
+  "github": "https://github.com/ASaliba0419",
+  "email": "salibacodes@gmail.com",
+  "resume": "https://github.com/ASaliba0419/NPM-Resume/blob/main/README.md",
+  "BeginnerTechnologies": [
+      "Javascript",
+      "React",
+      "Node",
+      "Mongodb",
+      "Python",
+      "HTML",
+      "CSS",
+      "Ruby"
+  ],
+  "otherSkills": [
+      "Bi-Lingual"
+  ]
+}
